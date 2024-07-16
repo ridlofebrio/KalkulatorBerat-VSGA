@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Kalkulator BMI</string>
+    <string name="label_bobot">Bobot (kg)</string>
+    <string name="height">Tinggi (cm)</string>
+    <string name="calculateBMI">Hitung BMI</string>
+    
+    <string name="labelAplikasi">Kalkulator BMI</string>
+    <string name="labelUmur">Umur (th)</string>
+    <string name="logo_plus">+</string>
+    <string name="logo_minus">-</string>
+</resources>
